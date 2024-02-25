@@ -1,0 +1,24 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #211f1f;
+    color: aliceblue;
+}
+
+.center{
+    text-align: center;
+   
+}
+#clock{
+    width: 120px; /* Adjust width as needed */
+    height: 60px; /* Adjust height as needed */
+    background-color: tomato;
+    text-align: center; /* Center content horizontally */
+    border: 1px solid #050404; 
+    border-radius: 5px;
+    font-size: larger;
+    padding-top: 20px;
+}
